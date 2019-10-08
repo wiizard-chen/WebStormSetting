@@ -16,5 +16,6 @@
     <mask>*.cjs</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
