@@ -14,8 +14,8 @@
     <mask>*.ats</mask>
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
-    <mask>*.scss</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
