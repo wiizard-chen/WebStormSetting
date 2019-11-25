@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="accentColor" value="c9e9bb" />
+    <option name="selectedTheme" value="DRACULA" />
+    <option name="userId" value="1ae37c5f:16ea08c2f13:-8000" />
+    <option name="version" value="4.5.2" />
+  </component>
+</application>
