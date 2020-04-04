@@ -3,4 +3,7 @@
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
   </JSCodeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+  </codeStyleSettings>
 </code_scheme>
